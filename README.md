@@ -1,7 +1,7 @@
+<img src="MOFCreatioNN.jpg" width="500" />
 <H1> MOFCreatioNN: </H1>
-![MOFCreatioNN___2_-removebg-preview](https://github.com/user-attachments/assets/860a8c37-75fe-4988-86ce-db4cd8fb1316)
-![Image](https://github.com/user-attachments/assets/15c4541a-2fc5-42f8-a1a6-29c08e0858e1)
-![Test](MofCreatioNN.jpg)
+
+
 Table of Contents
 
 Introduction
